@@ -1,4 +1,4 @@
 # CUT&RUN Scripts
 ## Ashley Mae Conard
 
-CUT&amp;RUN script pipeline from raw data to comparisons with ChIP-seq data.
+CUT&amp;RUN set of scripts to process CUT&RUN data from raw .fastq to comparisons with ChIP-seq data.
